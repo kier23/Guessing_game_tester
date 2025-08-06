@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch, MagicMock
-import server  # server.py
+import server  
 import json
 import os
 
